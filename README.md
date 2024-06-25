@@ -22,7 +22,7 @@ This project replicates a basic layout similar to the Netflix homepage using HTM
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/simple-netflix-homepage.git
+   git clone https://github.com/Aishwarya-KB-Gowda/Bharat_intern_task2.git
    ```
 
 3. **Open the Files:**
