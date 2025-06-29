@@ -1,45 +1,85 @@
 
-**Project Name:** Simple Netflix-Inspired Homepage
+# **🎬 Netflix India Landing Page Clone**
 
-**Description:**
+A responsive, pixel-perfect clone of the **Netflix India landing page**, built using **HTML, CSS, and pure frontend techniques**. This project replicates the look and feel of Netflix’s official website, focusing on layout design, responsiveness, and interactive FAQ sections without any backend logic.
 
-This project replicates a basic layout similar to the Netflix homepage using HTML and CSS. It aims to provide a starting point for learning web development fundamentals like structure, styling, and potentially responsiveness.
+---
 
-**Features:**
+## **📌 Features**
 
-- **Basic Layout:** Mimics the Netflix homepage structure, including sections for:
-    - A logo or banner
-    - A search bar (non-functional)
-    - Featured content sections
-    - User profile and navigation elements (non-functional)
-- **Simplified Styling:** Adopts a color scheme and basic styling cues reminiscent of Netflix.
+✅ Fully responsive design for mobile, tablet, and desktop
+✅ Clean UI inspired by Netflix's official landing page
+✅ Interactive FAQ accordion section built using pure HTML and CSS
+✅ Email subscription form (non-functional placeholder)
+✅ Language selection dropdown with icon integration
+✅ Replicated visual sections with images, GIFs, and text
+✅ Modern layout with flexbox and responsive utilities
 
-**Getting Started:**
+---
 
-1. **Prerequisites:**
-    - A text editor or IDE (e.g., Visual Studio Code, Sublime Text)
-    - Basic familiarity with HTML and CSS
+## **🛠️ Tech Stack**
 
-2. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Aishwarya-KB-Gowda/Bharat_intern_task2.git
-   ```
+* **HTML5** — Semantic and structured layout
+* **CSS3** — Styling, responsive design, layout adjustments
+* **Font Awesome** — Icon integration for language dropdown
+* **Flexbox & Media Queries** — Ensures responsive behavior across devices
 
-3. **Open the Files:**
-   Open `index.html` and `style.css` in your preferred editor.
+---
 
-4. **View the Homepage:**
-   Open `index.html` in your web browser. You may need to run a local server using tools like `python -m http.server` to view it locally.
+## **📂 Project Structure**
 
-**Customization:**
+```
+├── index.html           # Main landing page structure
+├── style.css            # Styling for layout and responsiveness
+├── Assets/              # Images, icons, and visual assets used in the design
+│   ├── original_logo.png
+│   ├── down-icon.png
+│   ├── favicon.png
+│   ├── tv.gif
+│   ├── phone.png
+│   ├── anywhere.gif
+│   └── kids.png
+```
 
-- Experiment with CSS properties to further enhance the visual style.
-- Consider adding content placeholders (e.g., movie titles, images) to make it more visually appealing.
-- Explore responsive design techniques to ensure it adapts to different screen sizes.
+---
 
-**Disclaimer:**
+## **⚡ Key Sections**
 
-This project is purely for educational purposes and does not replicate Netflix's full functionality. It's recommended to explore JavaScript and frameworks like React for more advanced web application development.
+* **Hero Section:** Tagline, subscription form, language selector
+* **Features Section:** Visual showcase of Netflix features with text and images
+* **FAQ Section:** Expandable/collapsible questions using HTML radio inputs
+* **Footer:** Quick links and contact details
 
-**Feel free to contribute or raise issues on this project!**
+---
 
+## **💡 Possible Improvements**
+
+* Add JavaScript for email form validation
+* Smooth animations on FAQ expand/collapse
+* Backend integration for email signup functionality
+* Improved accessibility with ARIA labels
+* Dark mode toggle for modern UI feel
+
+---
+
+## **📥 Setup Instructions**
+
+1. Clone the repository
+2. Ensure all assets are available in the `Assets/` folder
+3. Open `index.html` in any modern browser
+4. Resize the browser window to test responsiveness
+
+---
+
+## **🧑‍💻 Author**
+
+**Aishwarya K B** — Frontend enthusiast passionate about clean, responsive web design and UI replication.
+
+> GitHub Profile: [Aishwarya-KB-Gowda](https://github.com/Aishwarya-KB-Gowda)
+
+---
+
+## **🔖 Additional Notes**
+
+* This project is for educational and portfolio purposes only
+* It does not connect to Netflix’s backend or provide streaming services
